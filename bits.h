@@ -1,0 +1,12 @@
+int bitOr(int, int);
+int test_bitOr(int, int);
+int fitsShort(int);
+int test_fitsShort(int);
+int anyEvenBit();
+int test_anyEvenBit();
+int isAsciiDigit(int);
+int test_isAsciiDigit(int);
+int isPower2(int);
+int test_isPower2(int);
+unsigned float_twice(unsigned);
+unsigned test_float_twice(unsigned);
